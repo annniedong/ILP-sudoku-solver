@@ -32,7 +32,3 @@ peer(V0,V1) :- row(V0,V2), row(V1,V2).
 ```
 
 Precision 1.00, recall 1.00 on the generated examples (80 positive, 80 negative).
-
-## Notes
-
-Written with help from an LLM (Claude).
